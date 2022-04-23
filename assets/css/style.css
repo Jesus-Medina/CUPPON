@@ -1,0 +1,13 @@
+#barraNavegacion {
+    background-color: #28a745;
+    color: white;
+}
+
+#galeria img{
+    width: 100%;
+    height: 23rem;
+}
+
+#formulario {
+    background-color: #28a745;
+}
